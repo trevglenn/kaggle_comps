@@ -1,4 +1,4 @@
-# kaggle_comps
+# Kaggle Competitions
 
 **Academic Success**
 

@@ -1,5 +1,5 @@
 # Kaggle Competitions
-*Machine Learning Classification competitions hosted by Kaggle as part of their Playground series*
+*Monthly Machine Learning Classification competitions hosted by Kaggle as part of their Playground series*
 
 
 **Academic Success**

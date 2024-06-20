@@ -4,7 +4,7 @@
 
 **Academic Success -** *June 2024*
 
-- Currently in the top 35% of all 1,700 competitors with my CatBoostClassification model
+- Currently in the top 35% of all 2,000 competitors with my CatBoostClassification model
 
 - Working on Deep Neural Network and Ensemble methods to improve score
 
